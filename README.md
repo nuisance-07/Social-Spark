@@ -19,13 +19,13 @@ The **Social Spark** app helps users stay socially connected by suggesting small
 ## Screenshots
 
 ### Initial State
-![App Initial State](screenshots/screenshot_3.jpeg)
+![App Initial State](screenshots/initial.png)
 
 ### Morning Spark
-![Morning Spark](screenshots/screenshot_1.jpeg)
+![Morning Spark](screenshots/morning.png)
 
 ### Afternoon Spark
-![Afternoon Spark](screenshots/screenshot_4.jpeg)
+![Afternoon Spark](screenshots/afternoon.png)
 
 ### Dinner Spark
-![Dinner Spark](screenshots/screenshot_2.jpeg)
+![Dinner Spark](screenshots/dinner.png)
