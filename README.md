@@ -16,6 +16,11 @@ The **Social Spark** app helps users stay socially connected by suggesting small
 - **Automated Builds**: Pulls the code context, sets up JDK 17, and uses Gradle wrapper to run `test` and `assembleDebug`, guaranteeing code integrability.
 - **Artifacts**: Uses `actions/upload-artifact` to package the generated debug APK that can be easily retrieved right from the GitHub commit checks page.
 
+## App Walkthrough Video
+*(Required for assignment submission)*
+**[Link to Unlisted YouTube Video Presentation Here]**
+
+
 ## Screenshots
 
 ### Initial State
