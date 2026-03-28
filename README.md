@@ -19,13 +19,13 @@ The **Social Spark** app helps users stay socially connected by suggesting small
 ## Screenshots
 
 ### Initial State
-![App Initial State](/home/collins/.gemini/antigravity/brain/501ae3ac-8ff4-4e24-908a-71523dd9fd04/app_initial_state_1774690454702.png)
+![App Initial State](screenshots/screenshot_3.jpeg)
 
 ### Morning Spark
-![Morning Spark](/home/collins/.gemini/antigravity/brain/501ae3ac-8ff4-4e24-908a-71523dd9fd04/app_morning_spark_1774690471875.png)
+![Morning Spark](screenshots/screenshot_1.jpeg)
 
 ### Afternoon Spark
-![Afternoon Spark](/home/collins/.gemini/antigravity/brain/501ae3ac-8ff4-4e24-908a-71523dd9fd04/app_afternoon_spark_1774690488337.png)
+![Afternoon Spark](screenshots/screenshot_4.jpeg)
 
-### Error State
-![Error State](/home/collins/.gemini/antigravity/brain/501ae3ac-8ff4-4e24-908a-71523dd9fd04/app_error_state_1774690503604.png)
+### Dinner Spark
+![Dinner Spark](screenshots/screenshot_2.jpeg)
